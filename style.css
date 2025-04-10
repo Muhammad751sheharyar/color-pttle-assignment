@@ -1,0 +1,139 @@
+.main{
+    height: 650px;
+    width: 100%;
+    /* border:2px solid black; */
+    display: flex;
+}
+.box1{
+    height: 650px;
+    width: 80px;
+    background-color:  rgb(93, 36, 119);
+    text-align: center;
+    line-height: 75.5em;
+    font-weight: bold;
+    color: white;    
+   
+}
+.box2{
+    height: 650px;
+    width: 80px;
+    background-color:rgb(112, 45, 118);
+    line-height: 75.5em;
+    text-align: center;
+     font-weight: bold;
+    color: white;   
+}
+.box3{
+    height: 650px;
+    width: 80px;
+    background-color: rgb(138, 58, 117);
+    line-height: 75.5em;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    text-decoration: underline;   
+}
+.box4{
+    height: 650px;
+    width: 80px;
+    background-color:rgb(164, 72, 117);
+    line-height: 75.5em;
+    text-align: center;
+    font-weight: bold;
+    color: white;   
+}
+.box5{
+    height: 650px;
+    width: 80px;
+    background-color: rgb(186, 83, 116);
+    line-height: 75.5em;
+    text-align: center;
+    font-weight: bold;
+    color: white;   
+    text-decoration: underline;
+}
+.box6{
+    height: 650px;
+    width: 80px;
+    background-color: rgb(211, 96, 117);
+    line-height: 75.5em;
+    text-align: center;
+    font-weight: bold;
+    color: white;   
+}
+.box7{
+    height: 650px;
+    width: 80px;
+    background-color:rgb(233, 107, 115);
+    line-height: 75.5em;
+    text-align: center;
+    font-weight: bold;
+    color: white;   
+    text-decoration: underline;
+}
+.box8{
+    height: 650px;
+    width: 80px;
+    background-color: rgb(237, 124, 117);
+    line-height: 75.5em;
+    text-align: center;
+    font-weight: bold;
+    color: white;   
+}
+.box9{
+    height: 650px;
+    width: 80px;
+    background-color:rgb(241, 140, 115);
+    line-height: 75.5em;
+    text-align: center;
+    font-weight: bold;
+    color: white;   
+    
+}
+.box10{
+    height: 650px;
+    width: 80px;
+    background-color:rgb(245, 157, 112);
+    line-height: 75.5em;
+    text-align: center;
+    font-weight: bold;
+    color: white;   
+
+}
+.box11{
+    height: 650px;
+    width: 80px;
+    background-color:rgb(249, 175, 113);
+    line-height: 75.5em;
+    text-align: center;
+    font-weight: bold;
+    color: white;   
+}
+.box12{
+    height: 650px;
+    width: 80px;
+    background-color: rgb(253, 190, 114);
+    line-height: 75.5em;
+    text-align: center;
+    font-weight: bold;
+    color: white;   
+}
+.box13{
+    height: 650px;
+    width: 80px;
+    background-color: rgb(250, 200, 138);
+    line-height: 75.5em;
+    text-align: center;
+    font-weight: bold;
+    color: white;   
+}
+.box14{
+    height: 650px;
+    width: 80px;
+    background-color:rgb(255, 225, 185);
+    line-height: 75.5em;
+    text-align: center;
+    font-weight: bold;
+    color: white;   
+    
+}
