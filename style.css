@@ -1,12 +1,13 @@
+.h1{
+    text-align: center;
+}
 .main{
     height: 650px;
     width: 100%;
     /* border:2px solid black; */
     display: flex;
 }
-h1{
-    text-align: center
-}
+
 .box1{
     height: 650px;
     width: 80px;
